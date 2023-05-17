@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+header,
+.Hero,
+footer {
+  background-color: #1f2937;
+  padding: 0 100px 0 100px;
+}
+
+/*
+nav {
+  width: 820px;
+  height: 60px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_logo_text {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: 700;
+}
+
+.header_link_text {
+  display: flex;
+  justify-content: flex-end;
+}
+
+ul li {
+  list-style: none;
+  padding: 7px 25px;
+  margin: 0 10px;
+}
+
+ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 64px;
+  align-items: center;
+}
+
+.header_logo_text {
+  font-size: 24px;
+  font-weight: 700;
+  color: #f9faf8;
+  text-decoration: none;
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  list-style: none;
+  margin-left: 20px;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+.hero_main_text {
+  font-size: 48px;
+  font-style: extra-bold;
+  color: #f9faf8;
+  width: 400px;
+}
+ 
+.hero_secondary_text,
+.header_link_text {
+  font-size: 18px;
+  color: #e5e7eb;
+  width: 500px;
+}
+
+.information_header_text {
+  font-size: 36px;
+  font-style: extra-bold;
+  color: #1f2937;
+}
+
+.quotation {
+  background-color: #e5e7eb;
+  padding: 50px 200px 50px 200px;
+}
+
+blockquote {
+  font-size: 36px;
+  font-weight: 200;
+  color: #1f2937;
+}
+
+.cite_text {
+  font-size: 30px;
+  font-weight: 600;
+  color: #1f2937;
+  text-align: right;
+}
+
+button {
+  background-color: #3882f6;
+  color: #e5e7eb;
+  font-size: 18px;
+  font-style: extra-bold;
+  font-weight: 700;
+  padding: 5px 30px 5px 30px;
+  border: 10px;
+  border-radius: 10px;
+  margin: 4px 0 0 0;
+}
+
+.call-to-action {
+  display: flex;
+  background-color: #3882f6;
+  color: #e5e7eb;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 80px;
+}
+
+.call-to-action_text {
+  padding: 0 60px 0 60px;
+}
+
+.button-border {
+  border: 2px solid white;
+}*/
